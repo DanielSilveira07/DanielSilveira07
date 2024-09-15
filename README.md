@@ -58,24 +58,8 @@
 <!-- **************************************************************** CONTATO **************************************************************** -->
 <div align="center">
 
-<script>
-    function enviarEmail() {
-    var destinatario = "danielssilveira2002@gmail.com";
-    var assunto = "Marcação de consulta";
-    var corpo = "Olá, estou entrando em contato para...";
-    var gmailLink = "https://mail.google.com/mail/?view=cm&fs=1&to=" + encodeURIComponent(destinatario) + "&su=" + encodeURIComponent(assunto) + "&body=" + encodeURIComponent(corpo);
-    window.location.href = gmailLink;
-}
-</script>
-
- <ul>
-    <li>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-silveira-402577269)
-    </li>
-    <li onClick:"enviarEmail()">[![Gmail](https://img.shields.io/badge/Gmail-%23ea4335.svg?logo=Gmail&logoColor=white)](mailto:danieldasilvasilveira2002@gmail.com)
-    </li>
-</ul>
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-silveira-402577269)
+[![Gmail](https://img.shields.io/badge/Gmail-%23ea4335.svg?logo=Gmail&logoColor=white)](https://mailto:danieldasilvasilveira2002@gmail.com)
 
 </div>
 
@@ -83,19 +67,9 @@
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&color=FFFFFF&center=true&vCenter=true&width=1000&height=70&duration=6000&lines=---------------------------------------------------------------------------------------------------------------------------------------------------" />
 
- <!-- **************************************************************** VISITAS **************************************************************** -->
-<p align="center"> 
- VISITAS<br> <br>
-  <img src="https://profile-counter.glitch.me/leonardoalaff/count.svg"/>
-  </p>
-
-  <!-- **************************************************************** VISITAS POR PAÍSES **************************************************************** -->
-<p align="center"><a href="https://github.com/leonardoalaff"><img src="https://s11.flagcounter.com/countxl/cEg/bg_0D1117/txt_FFFFFF/border_0D1117/columns_6/maxflags_12/viewers_3/labels_0/pageviews_0/flags_0/percent_1/" alt="Flag Counter" border="0"></a></p><br>
- 
   <!-- **************************************************************** STATS **************************************************************** -->
 <div align="center">
-  <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=leonardoalaff&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00FF00&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=en" alt="Leonardo Alaff" />
-  
+
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalaff&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div> 
 
@@ -103,22 +77,13 @@
   
  <!--Total Contributions--> 
  <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=leonardoalaff&theme=tokyonight_duo&hide_border=true"
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=DanielSilveira07&theme=algolia&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_height=190" alt="GitHub Streak" />
 </p>
 
 <br/>
 
 <!-- **************************************************************** GRÁFICO **************************************************************** -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=leonardoalaff&bg_color=0d1117&color=ffffff&line=FF00FF&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-<!-- **************************************************************** TROFÉUS **************************************************************** -->
-<p align="center">
-    <a href="https://github.com/getintorj/getintorj">
-        <img src="https://github-profile-trophy.vercel.app/?username=leonardoalaff&column=-1&theme=radical&layout=compact"width="95%"/> 
-</p>
-
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielSilveira07&bg_color=000000&color=ffffff&line=1e88e5&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 <!-- **************************************************************** VERSÕES DE CONTROLE **************************************************************** -->
