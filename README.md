@@ -58,9 +58,23 @@
 <!-- **************************************************************** CONTATO **************************************************************** -->
 <div align="center">
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-silveira-402577269)
-[![Gmail](https://img.shields.io/badge/Gmail-%23ea4335.svg?logo=Gmail&logoColor=white)](mailto:danieldasilvasilveira2002@gmail.com
-)
+<script>
+    function enviarEmail() {
+    var destinatario = "danielssilveira2002@gmail.com";
+    var assunto = "Marcação de consulta";
+    var corpo = "Olá, estou entrando em contato para...";
+    var gmailLink = "https://mail.google.com/mail/?view=cm&fs=1&to=" + encodeURIComponent(destinatario) + "&su=" + encodeURIComponent(assunto) + "&body=" + encodeURIComponent(corpo);
+    window.location.href = gmailLink;
+}
+</script>
+
+ <ul>
+    <li>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-silveira-402577269)
+    </li>
+    <li onClick:"enviarEmail()">[![Gmail](https://img.shields.io/badge/Gmail-%23ea4335.svg?logo=Gmail&logoColor=white)](mailto:danieldasilvasilveira2002@gmail.com)
+    </li>
+</ul>
+
 
 
 </div>
