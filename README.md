@@ -17,11 +17,11 @@ Oi, meu nome é Daniel Silveira, sou Desenvolvedor Front-End, apaixonado por apr
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="Nodejs" />
+        <img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" />
       <br>React
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=angular" width="40" height="40" alt="Nodejs" />
+        <img src="https://skillicons.dev/icons?i=angular" width="40" height="40" alt="Angular" />
       <br>Angular
     </td>
     <td align="center"  width="96">
@@ -72,9 +72,9 @@ Oi, meu nome é Daniel Silveira, sou Desenvolvedor Front-End, apaixonado por apr
 
   <!-- **************************************************************** STATS **************************************************************** -->
 <div align="center">
-  <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=DanielSilveira07&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00FF00&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=en" alt="Daniel Silveira" />
+  <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=DanielSilveira07&show_bg=1&count_private=true&hide_border=false&show_icons=true&title_color=00FF00&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=en" alt="Daniel Silveira" />
 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSilveira07&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSilveira07&layout=compact&hide_border=false&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div> 
 
 </div>
@@ -83,13 +83,13 @@ Oi, meu nome é Daniel Silveira, sou Desenvolvedor Front-End, apaixonado por apr
   
  <!--Total Contributions--> 
  <p align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=DanielSilveira07&theme=algolia&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_height=190" alt="GitHub Streak" />
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=DanielSilveira07&theme=algolia&hide_border=false&locale=pt_BR&date_format=j%20M%5B%20Y%5D&card_height=190&background=0D1117" alt="GitHub Streak"/>
 </p>
 
 <br/>
 
 <!-- **************************************************************** GRÁFICO **************************************************************** -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielSilveira07&bg_color=000000&color=ffffff&line=1e88e5&point=f9fafa&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DanielSilveira07&bg_color=0d1117&color=ffffff&line=1e88e5&point=f9fafa&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 <!-- **************************************************************** VERSÕES DE CONTROLE **************************************************************** -->
