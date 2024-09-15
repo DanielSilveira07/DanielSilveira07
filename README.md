@@ -1,4 +1,4 @@
-<h1 style="display: flex; justify-content: center; font-weight: 700">Daniel Silveira</h1>
+<h1 align="center" style="color:#000">Daniel Silveira</h1>
 
 <p>
 Oi, meu nome é Daniel Silveira, sou Desenvolvedor Front-End, apaixonado por aprender tecnologias, inovação e linguagens de programação. Atualmente, estou aprendendo cada vez mais sobre esse mundo da programação. Dia após dia, busco incessantemente novos conhecimentos na área, não só em Front-End, mas também em Back-End. Hoje, estou procurando um emprego para expandir meus horizontes e aproveitar cada momento para absorver essa experiência e evoluir conforme necessário.
