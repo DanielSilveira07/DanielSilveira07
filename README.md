@@ -1,5 +1,8 @@
-<h1 align="center" style="color:#000">Daniel Silveira</h1>
+<h1 align="center" style="color:#000">Hello, I'm Daniel / Olá eu sou o Daniel</h1>
 
+<p>
+Hi, my name is Daniel Silveira, I'm a Front-End Developer, passionate about learning technologies, innovation and programming languages. Currently, I'm learning more and more about this world of programming. Day after day, I'm constantly seeking new knowledge in the area, not only in Front-End, but also in Back-End. Today, I'm looking for a job to expand my horizons and take advantage of every moment to absorb this experience and evolve as needed.
+</p>
 <p>
 Oi, meu nome é Daniel Silveira, sou Desenvolvedor Front-End, apaixonado por aprender tecnologias, inovação e linguagens de programação. Atualmente, estou aprendendo cada vez mais sobre esse mundo da programação. Dia após dia, busco incessantemente novos conhecimentos na área, não só em Front-End, mas também em Back-End. Hoje, estou procurando um emprego para expandir meus horizontes e aproveitar cada momento para absorver essa experiência e evoluir conforme necessário.
 </p>
