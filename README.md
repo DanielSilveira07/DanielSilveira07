@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=fff&center=true&width=700&lines=Tecnologias;Technologies" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=0&duration=4000&color=000&center=true&width=700&lines=Tecnologias/Technologies" alt="Typing SVG" /></a></h3>
 <p align="center">
 <p align="center">
 <div style="display: flex; align-items: flex-start; align: center">
@@ -65,7 +65,7 @@
 
 <!-- **************************************************************** LINHA **************************************************************** -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&color=FFFFFF&center=true&vCenter=true&width=1000&height=70&duration=6000&lines=---------------------------------------------------------------------------------------------------------------------------------------------------" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&color=000000&center=true&vCenter=true&width=1000&height=70&duration=6000&lines=---------------------------------------------------------------------------------------------------------------------------------------------------" />
 
   <!-- **************************************************************** STATS **************************************************************** -->
 <div align="center">
