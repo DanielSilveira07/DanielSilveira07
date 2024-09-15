@@ -1,5 +1,8 @@
-<h1 align="center">Daniel Silveira</h1>
+<h1 align="center" style="font-weight: 700;">Daniel Silveira</h1>
 
+<p>
+Oi, meu nome é Daniel Silveira, sou Desenvolvedor Front-End, apaixonado por aprender tecnologias, inovação e linguagens de programação. Atualmente, estou aprendendo cada vez mais sobre esse mundo da programação. Dia após dia, busco incessantemente novos conhecimentos na área, não só em Front-End, mas também em Back-End. Hoje, estou procurando um emprego para expandir meus horizontes e aproveitar cada momento para absorver essa experiência e evoluir conforme necessário.
+</p>
 
 
 
@@ -69,6 +72,7 @@
 
   <!-- **************************************************************** STATS **************************************************************** -->
 <div align="center">
+  <img width="55%" height="195px" src="https://bad-apple-github-readme.vercel.app/api?username=DanielSilveira07&show_bg=1&count_private=true&hide_border=true&show_icons=true&title_color=00FF00&icon_color=70a5fd&text_color=FFFFFF&bg_color=0d1117&hide_title=false&locale=en" alt="Leonardo Alaff" />
 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSilveira07&layout=compact&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0d1117" />
 </div> 
